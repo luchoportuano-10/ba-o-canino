@@ -1,2 +1,2 @@
-# ba-o-canino
+# baño-canino
 baño canino, agenda tu cita aquí 
